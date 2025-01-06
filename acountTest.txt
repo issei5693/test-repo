@@ -1,2 +1,3 @@
 account test
 account test2
+I removed user.email setting.
